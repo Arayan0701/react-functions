@@ -10,6 +10,8 @@ import Practice from "./IT0801/practice"
 import Pagination from "./IT1501/pagination"
 import Hook1Example from "./IT2026/hook1"
 import Hook2Example from "./IT2026/hook2"
+import UseState3 from "./IT2126/usestate"
+
 
 function App() {
 
@@ -25,8 +27,10 @@ function App() {
     <Home />
     <Practice />
     <Pagination /> 
-    <Hook1Example />*/}
-    <Hook2Example />
+    <Hook1Example />
+    <Hook2Example />*/}
+    <UseState3 />
+
 
     </>
   )
